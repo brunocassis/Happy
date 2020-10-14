@@ -56,11 +56,9 @@ export default {
       about,
       instructions,
       opening_hours,
-      open_on_weekends,
+      open_on_weekends: open_on_weekends === 'true',
       images
     };
-
-    data.open_on_weekends = data.open_on_weekends === "false" ? false : true;
 
     const schema = Yup.object().shape({
       name: Yup.string().required(),
@@ -70,7 +68,7 @@ export default {
       instructions: Yup.string().required(),
       opening_hours: Yup.string().required(),
       open_on_weekends: Yup.boolean().required(),
-      iamges: Yup.array(Yup.object().shape({
+      images: Yup.array(Yup.object().shape({
         path: Yup.string().required()
       }))
     });
