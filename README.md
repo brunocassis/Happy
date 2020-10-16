@@ -88,9 +88,9 @@ $ yarn start
 
 ```bash
 # After cloning the repository from the last step.
-
-# Go into the repository
-$ cd Happy/web
+# Get back to the Happy folder and then to the web repository
+$ cd .. 
+$ cd web
 
 # Install dependencies
 $ yarn install
@@ -105,7 +105,8 @@ $ yarn start
 
 ```bash
 # Now, go into the mobile folder
-$ cd Happy/mobile
+$ cd ..
+$ cd mobile
 
 # Install dependencies
 $ yarn install
