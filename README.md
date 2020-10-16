@@ -41,7 +41,7 @@ Happy is a project created with the goal to bring some joy to children in need.
 You can sign up a orphanage, and set visiting hours, location and even if it opens on weekends. Whoever uses the app can check for orphanages nearby, visit and play with the children!
 
 <p align="center">
-  <img alt="Happy" src=".github/layout.png" width="100%">
+  <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
 ## :rocket: Technologies
