@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Proffy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
 
 <h4 align="center"> 
@@ -35,14 +35,10 @@
   <a href="#memo-license">License</a>
 </p>
 
-## :information_source: What's Next Level Week?
-
-NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
-
 ## 💻 Project
 
-Proffy is a project developed during a quarantine world.
-It was created with the objective to connect students seeking knowledge and teachers looking to teach and have an extra income.
+Happy is a project created with the goal to bring some joy to children in need.
+You can sign up a orphanage, and set visiting hours, location and even if it opens on weekends. Whoever uses the app can check for orphanages nearby, visit and play with the children!
 
 <p align="center">
   <img alt="Happy" src=".github/layout.png" width="100%">
